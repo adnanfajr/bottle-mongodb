@@ -1,7 +1,7 @@
 # bottle-mongodb
 Project for learn to make a website with Bottle Web Framework and MongoDB
 
-All of this source code I get from [M101P: MongoDB for Developers][1], an online course from [MongoDB University][2] where I want to learn about MongoDB.
+This is a source code result after I join the [M101P: MongoDB for Developers][1], an online course from [MongoDB University][2] where I want to learn about MongoDB.
 
 ##Requirements :
  1. [MongoDB 3.x][3]
